@@ -1,4 +1,4 @@
-Minimalistic react instant development with snowpack and async data support through react-query
+Minimalistic instant UI development with snowpack and haunted web components
 
 to run make sure you have snowpack installed:
 ```
